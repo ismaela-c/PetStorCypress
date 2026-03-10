@@ -14,7 +14,6 @@ Durante as aulas foram abordados os seguintes tópicos:
 - Organização de testes automatizados
 
 **Tecnologias Utilizadas**
-
 - Cypress
 - JavaScript
 - Node.js
