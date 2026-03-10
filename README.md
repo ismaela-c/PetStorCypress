@@ -13,7 +13,7 @@ Durante as aulas foram abordados os seguintes tópicos:
 - Implementação de DDT (Data Driven Testing)
 - Organização de testes automatizados
 
-  **Tecnologias Utilizadas**
+**Tecnologias Utilizadas**
 
 - Cypress
 - JavaScript
