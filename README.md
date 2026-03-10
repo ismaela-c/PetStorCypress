@@ -17,3 +17,4 @@ Durante as aulas foram abordados os seguintes tópicos:
 - Cypress
 - JavaScript
 - Node.js
+- API pública: https://-petstore.swagger.io
