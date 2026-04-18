@@ -18,3 +18,6 @@ Durante as aulas foram abordados os seguintes tópicos:
 - JavaScript
 - Node.js
 - API pública: https://-petstore.swagger.io
+
+  **Execução**
+  https://www.loom.com/share/343ea3752e704438a6a294fad724590d
